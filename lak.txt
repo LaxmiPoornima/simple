@@ -1,0 +1,15 @@
+class Obj{
+void Show(){
+System.out.println("object class");
+}
+}
+public class Driver{
+public static void main(String[]args){
+obj o;
+o=new Ojb();
+o.Show();
+System.out.println("driver class");
+}
+}
+
+
